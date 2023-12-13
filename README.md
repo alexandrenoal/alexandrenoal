@@ -1,6 +1,10 @@
 <h1 align="center">Oi 👋, Eu sou Alexandre Noal</h1>
 <h3 align="center">Um desenvolvedor web júnior</h3>
 
+- 🔭 Estou trabalhando no projeto pessoal. Uma rede social voltada para trocas de games e consoles **Gamerexchange**
+
+- 🌱 Atualmente estudando **os frameworks Laravel e bootstrap**
+
 - 📫 Você me encontra através do email **alexandrenoal88@gmail.com**
 
 - 📄 Principais experiências profissionais compartilhadas no linkedin [https://www.linkedin.com/in/alexandre-noal-gonzales-137796b5/](https://www.linkedin.com/in/alexandre-noal-gonzales-137796b5/)
