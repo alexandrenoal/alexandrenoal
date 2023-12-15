@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Alexandre Noal</h1>
-<h3 align="center">Um desenvolvedor Web</h3>
+<h3 align="center">Um Desenvolvedor Web</h3>
 
 - 🔭 Estou trabalhando em um projeto pessoal. Uma rede social voltada para trocas de games e consoles **Gamerexchange**
 
