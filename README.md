@@ -7,7 +7,7 @@
 
 - 📫 Você me encontra através do email **alexandrenoal88@gmail.com**
 
-- 📫 Meu portifolio https://alexandrenoal.github.io/meu-site/index.html
+- 📫 Meu portifolio https://alexandrenoal.github.io/portifolio/index.html
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
