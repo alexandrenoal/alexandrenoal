@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Alexandre Noal</h1>
-<h3 align="center">Um Desenvolvedor Web</h3>
+<h3 align="center">Desenvolvedor Web</h3>
 
 - 🔭 Trabalhando em um projetos pessoais, como por exemplo uma rede social voltada para trocas de games e consoles **Gamerexchange** e um sistema de investimento de ativos da B3
 
