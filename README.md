@@ -1,17 +1,15 @@
 <h1 align="center">Oi 👋, Eu sou Alexandre Noal</h1>
 <h3 align="center">Um Desenvolvedor Web</h3>
 
-- 🔭 Estou trabalhando em um projeto pessoal. Uma rede social voltada para trocas de games e consoles **Gamerexchange**
-
-- 🌱 Atualmente estudando **os frameworks Laravel e bootstrap**
+- 🔭 Trabalhando em um projetos pessoais, como por exemplo uma rede social voltada para trocas de games e consoles **Gamerexchange** e um sistema de investimento de ativos da B3
 
 - 📫 Você me encontra através do email **alexandrenoal88@gmail.com**
 
-- 📫 Meu portifolio https://alexandrenoal.github.io/portifolio/index.html
+- 📫 Meu portifolio: https://alexandrenoal.github.io/portifolio/index.html
 
-Projetos:
+<h3 align="left">Projetos</h3>
 
-- 🌱 https://alexandrenoal.github.io/finance-market-JS/
+- 🌱 FinanceMarket: https://alexandrenoal.github.io/finance-market-JS/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
