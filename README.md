@@ -13,9 +13,9 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 
-<table>
+<table border="0">
   <tr>
-    <td><a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a></td>
+    <td><a href="https://www.linkedin.com/in/alexandre-noal-gonzales-137796b5" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a></td>
     <td><a href="https://fb.com/alexandre.gonzales.90" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a></td>
     <td><a href="https://instagram.com/alexandrenoal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a></td>
   </tr>
