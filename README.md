@@ -4,7 +4,7 @@
 
 - 🔭 Trabalhando em projetos pessoais, como por exemplo uma rede social voltada para trocas de games e consoles **Gamerexchange** e um **sistema de investimento de ativos da B3**.
 
-- 📫 Você me encontra através do email **alexandrenoal88@gmail.com**
+- 📫 Você me encontra através do email **alexandrenoal88@gmail.com*
 
 - 📫 Meu portifolio: https://alexandrenoal.github.io/portifolio/index.html
 
