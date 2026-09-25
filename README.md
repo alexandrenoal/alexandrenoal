@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Alexandre Noal</h1>
 <!--<h3 align="center">Desenvolvedor Web</h3>-->
 <h3 align="left">Desenvolvedor Web</h3>
-
+<!--
 - 🔭 Trabalhando em projetos pessoais, como por exemplo uma rede social voltada para trocas de games e consoles **Gamerexchange** e um **sistema de investimento de ativos da B3**.
 
 - 📫 Você me encontra através do email **alexandrenoal88@gmail.com**
@@ -12,7 +12,7 @@
 
 - 🌱 Dashboard de ordens de serviço de T.I Prefeitura Municipal de Capão da Canoa: https://cpdcapaodacanoa.fwh.is/dashboard.php
 - 🌱 FinanceMarket: https://alexandrenoal.github.io/finance-market-JS/
-
+-->
 <h3 align="left">Conecte-se comigo:</h3>
 
 <table border="0">
