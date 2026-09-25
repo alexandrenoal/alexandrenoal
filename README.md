@@ -13,17 +13,6 @@
 <!--- 🌱 Dashboard de ordens de serviço de T.I Prefeitura Municipal de Capão da Canoa: https://cpdcapaodacanoa.fwh.is/dashboard.php -->
 <!--- 🌱 FinanceMarket: https://alexandrenoal.github.io/finance-market-JS/ -->
 
-<h3 align="left">Conecte-se comigo:</h3>
-
-<table border="0">
-  <tr>
-    <td><a href="https://www.linkedin.com/in/alexandre-noal-gonzales-137796b5" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a></td>
-    <td><a href="https://fb.com/alexandre.gonzales.90" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a></td>
-    <td><a href="https://instagram.com/alexandrenoal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a></td>
-  </tr>
-</table>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <table border="0">
@@ -37,3 +26,14 @@
     <td><a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a></td>
   </tr>
 </table>
+
+<h3 align="left">Conecte-se comigo:</h3>
+
+<table border="0">
+  <tr>
+    <td><a href="https://www.linkedin.com/in/alexandre-noal-gonzales-137796b5" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a></td>
+    <td><a href="https://fb.com/alexandre.gonzales.90" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a></td>
+    <td><a href="https://instagram.com/alexandrenoal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a></td>
+  </tr>
+</table>
+</p>
