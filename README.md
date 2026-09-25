@@ -8,7 +8,7 @@
 
 - 📫 Meu portifolio: https://alexandrenoal.github.io/portifolio/index.html
 
-<h3 align="left">Projetos:</h3>
+### Projetos:
 
 - 🌱 Dashboard de ordens de serviço de T.I Prefeitura Municipal de Capão da Canoa: https://cpdcapaodacanoa.fwh.is/dashboard.php
 - 🌱 FinanceMarket: https://alexandrenoal.github.io/finance-market-JS/
